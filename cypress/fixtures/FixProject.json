@@ -1,0 +1,42 @@
+{
+  "testCases": [
+    {
+      "RegValid": {
+        "firstname": "dima",
+        "email": "dima3tsotsonava@gmail.com",
+        "Piradinom": "62004026779",
+        "Tel": "597506261",
+        "password": "123456",
+        "password2": "123456"
+      }
+    },
+    {
+      "Authorization": {
+        "email": "dima3tsotsonava@gmail.com",
+        "password": "123456"
+      }
+    },
+    {
+      "NivtAmoshla": {
+        "email": "dima3tsotsonava@gmail.com",
+        "password": "123456"
+      }
+    },
+    {
+      "ProdMomateba": {
+        "email": "dima3tsotsonava@gmail.com",
+        "password": "123456"
+      }
+    },
+    {
+      "PirobebisGareshe":{
+        "firstname": "dima",
+        "email": "dima3tsotsonava@gmail.com",
+        "Piradinom": "62004026779",
+        "Tel": "597506261",
+        "password": "123456",
+        "password2": "123456"
+      }
+    }
+  ]
+}
